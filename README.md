@@ -1,4 +1,5 @@
-### Olá! Eu sou o Arthur Telles
+### Olá! Eu sou o Arthur Telles, estou procurando o meu primeiro emprego!
+
 
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estou estudando ReactJS
