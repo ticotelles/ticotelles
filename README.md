@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Arthur Telles, estou procurando o meu primeiro emprego!
 
-
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando ReactJS
+- 🌱 Estou estudando ASP.NET MVC
 - 📫 Contate-me no email: arthur.telles@ufvjm.edu.br
 - 😄 Pronouns: ele/dele
 
