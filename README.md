@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Telles, estou procurando o meu primeiro emprego!
+### Olá! Eu sou o Arthur Telles, atualmente trabalho como desenvolvedor front-end!
 
 - 🌱 Estou estudando ASP.NET MVC
 - 📫 Contate-me no email: arthur.telles@ufvjm.edu.br
