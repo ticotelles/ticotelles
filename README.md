@@ -1,7 +1,7 @@
-### Olá! Eu sou o Arthur Telles, atualmente trabalho como desenvolvedor front-end!
+### Olá! Eu sou o Arthur Telles, atualmente trabalho como desenvolvedor full-stack!
 
-- 🌱 Estou estudando ASP.NET MVC
-- Sou Voluntário em um projeto APP IGREJAS, trabalhando no backoffice usando React
+- 🌱 Atualmente estou trabalhando como full-stack em projetos voluntários
+- Sou Voluntário em um projeto Caronas App
 - 📫 Contate-me no email: arthur.telles@ufvjm.edu.br
 - 😄 Pronouns: ele/dele
 
